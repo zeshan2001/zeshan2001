@@ -55,5 +55,3 @@
 ###
 
 <br clear="both" />
-
-<img src="https://raw.githubusercontent.com/zeshan2001/zeshan2001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
