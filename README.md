@@ -1,4 +1,4 @@
-<h2 align="left">Hello! 👋</h2>
+<h2 style="text-align:left">Howdy, partner 🤠</h2>
 
 ###
 
